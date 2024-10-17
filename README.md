@@ -1,1 +1,1 @@
-# SKYPRO_FINAL_TASK
+car_washing_example
